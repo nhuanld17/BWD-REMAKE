@@ -807,5 +807,13 @@ body {
     .reason-why .container .inner-wrap .inner-content .inner-title{
         font-size: 30px;
     }
+
+    .reason-why .container .inner-wrap .inner-banner .inner-content {
+        position: relative;
+        top: -20px;
+        left: -34px;
+        padding: 50px;
+        padding-top: 80px;
+    }
 }
 /* END REASON WHY  */
