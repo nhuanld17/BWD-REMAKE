@@ -802,4 +802,10 @@ body {
         right: -8%;
     }
 }
+
+@media (max-width: 478.98px){
+    .reason-why .container .inner-wrap .inner-content .inner-title{
+        font-size: 30px;
+    }
+}
 /* END REASON WHY  */
